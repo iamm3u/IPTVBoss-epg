@@ -1,0 +1,791 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="AandENetwork.us" tvg-name="US: A&E" tvg-logo="https://cdn.iptvboss.pro/logos/USA/AandENetwork.us.png" group-title="USA ENT HD",US: A&E
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417871.ts
+#EXTINF:-1 tvg-chno="2" tvg-id="AMC.us" tvg-name="US: AMC" tvg-logo="http://img2.wikia.nocookie.net/__cb20131130204856/walkingdead/images/f/fd/AMC_2013_logo.png" group-title="USA ENT HD",US: AMC
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417872.ts
+#EXTINF:-1 tvg-chno="3" tvg-id="AmericanHeroesChannel.us" tvg-name="US: AMERICAN HEROES" tvg-logo="https://static.epg.best/us/AmericanHeroesChannel.us.png" group-title="USA ENT HD",US: AMERICAN HEROES
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417873.ts
+#EXTINF:-1 tvg-chno="4" tvg-id="AnimalPlanet.us" tvg-name="US: ANIMAL PLANET" tvg-logo="https://i.ibb.co/7VNVyTs/animal-planet.png" group-title="USA ENT HD",US: ANIMAL PLANET
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417996.ts
+#EXTINF:-1 tvg-chno="5" tvg-id="ASPiRE.us" tvg-name="US: ASPIRE" tvg-logo="https://static.epg.best/us/AspireTV.us.png" group-title="USA ENT HD",US: ASPIRE
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417874.ts
+#EXTINF:-1 tvg-chno="6" tvg-id="AWE.us" tvg-name="US: AWE" tvg-logo="https://static.epg.best/us/AWealthofEntertainment.us.png" group-title="USA ENT HD",US: AWE
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417875.ts
+#EXTINF:-1 tvg-chno="7" tvg-id="AXSTV.us" tvg-name="US: AXS" tvg-logo="https://static.epg.best/us/AXSTV.us.png" group-title="USA ENT HD",US: AXS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417876.ts
+#EXTINF:-1 tvg-chno="8" tvg-id="BBCAmerica.us" tvg-name="US: BBC AMERICA" tvg-logo="https://zapdot.com/images/bbc-america.png" group-title="USA ENT HD",US: BBC AMERICA
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417877.ts
+#EXTINF:-1 tvg-chno="9" tvg-id="BET.us" tvg-name="US: BET" tvg-logo="https://images.vectorhq.com/images/previews/4d0/bet-logo-psd-450606.png" group-title="USA ENT HD",US: BET
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417879.ts
+#EXTINF:-1 tvg-chno="10" tvg-id="BETHer.us" tvg-name="US: BET HER" tvg-logo="https://i.ibb.co/9nFVBTR/bet-her.png" group-title="USA ENT HD",US: BET HER
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417878.ts
+#EXTINF:-1 tvg-chno="11" tvg-id="BETJams.us" tvg-name="US: BET Jams" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/BETJM-logo.png" group-title="USA ENT HD",US: BET Jams
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417955.ts
+#EXTINF:-1 tvg-chno="12" tvg-id="BETSOUL.us" tvg-name="US: BET SOUL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/BET_Soul_Logo.png" group-title="USA ENT HD",US: BET SOUL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417956.ts
+#EXTINF:-1 tvg-chno="13" tvg-id="BounceTV.us" tvg-name="US: BOUNCE TV" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/d61318bc-bounce_adjusted.png" group-title="USA ENT HD",US: BOUNCE TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417927.ts
+#EXTINF:-1 tvg-chno="14" tvg-id="Bravo.us" tvg-name="US: BRAVO" tvg-logo="https://static.epg.best/us/Bravo.us.png" group-title="USA ENT HD",US: BRAVO
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417880.ts
+#EXTINF:-1 tvg-chno="15" tvg-id="BravoPacific.us" tvg-name="US: Bravo (West)" tvg-logo="https://static.epg.best/us/Bravo.us.png" group-title="USA ENT HD",US: Bravo (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419322.ts
+#EXTINF:-1 tvg-chno="16" tvg-id="BUZZR.us" tvg-name="US: BUZZR" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/BUZZR_190x190.png" group-title="USA ENT HD",US: BUZZR
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417958.ts
+#EXTINF:-1 tvg-chno="17" tvg-id="CleoTV.us" tvg-name="US: CLEO TV" tvg-logo="https://sharp-feynman-8b0a3c.netlify.app/assets/images/logo.png" group-title="USA ENT HD",US: CLEO TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/441646.ts
+#EXTINF:-1 tvg-chno="18" tvg-id="CMT.us" tvg-name="US: CMT" tvg-logo="https://tgo-tv.co/images/tvthumbs/cmt-live-stream.png" group-title="USA ENT HD",US: CMT
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417881.ts
+#EXTINF:-1 tvg-chno="19" tvg-id="CMTPacific.us" tvg-name="US: CMT (West)" tvg-logo="https://tgo-tv.co/images/tvthumbs/cmt-live-stream.png" group-title="USA ENT HD",US: CMT (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419323.ts
+#EXTINF:-1 tvg-chno="20" tvg-id="ComedyCentral.us" tvg-name="US: COMEDY CENTRAL" tvg-logo="https://static.epg.best/br/ComedyCentral.br.png" group-title="USA ENT HD",US: COMEDY CENTRAL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417882.ts
+#EXTINF:-1 tvg-chno="21" tvg-id="ComedyCentralPacific.us" tvg-name="US: Comedy Central (West)" tvg-logo="https://static.epg.best/br/ComedyCentral.br.png" group-title="USA ENT HD",US: Comedy Central (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419324.ts
+#EXTINF:-1 tvg-chno="22" tvg-id="ComedyDynamics.us" tvg-name="US: Comedy Dynamics" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/24efb9da-18f6-4119-63e3-25f7b7a9fb0f/chlogo-clb-guide/108/81" group-title="USA ENT HD",US: Comedy Dynamics
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676374.ts
+#EXTINF:-1 tvg-chno="23" tvg-id="ComedyTV.us" tvg-name="US: Comedy TV" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/ca96e2f7-a27a-f202-cb2d-31975539c9e3/chlogo-clb-guide/108/81" group-title="USA ENT HD",US: Comedy TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676375.ts
+#EXTINF:-1 tvg-chno="24" tvg-id="Comet.us" tvg-name="US: COMET TV" tvg-logo="https://i.ibb.co/N9GVDr7/comet.png" group-title="USA ENT HD",US: COMET TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417928.ts
+#EXTINF:-1 tvg-chno="25" tvg-id="CookingChannel.us" tvg-name="US: COOKING CHANNEL" tvg-logo="https://i.ibb.co/Kwby95K/cooking-channel.png" group-title="USA ENT HD",US: COOKING CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417987.ts
+#EXTINF:-1 tvg-chno="26" tvg-id="CourtTV.us" tvg-name="US: COURT TV" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/39/USBA34000049Z_20210525T051457.png" group-title="USA ENT HD",US: COURT TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418021.ts
+#EXTINF:-1 tvg-chno="27" tvg-id="TheCowboyChannel.us" tvg-name="US: COWBOY CHANNEL" tvg-logo="http://rfdtvschedule.viewerlink.tv/logos/cowboycountry.png" group-title="USA ENT HD",US: COWBOY CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417930.ts
+#EXTINF:-1 tvg-chno="28" tvg-id="CoziTV.us" tvg-name="US: COZI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/200px-Cozi_TV_logo.svg.png" group-title="USA ENT HD",US: COZI TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417931.ts
+#EXTINF:-1 tvg-chno="29" tvg-id="Crime360.us" tvg-name="US: Crime 360" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/5aa81392-22af-431b-3379-20654730f148/chlogo-clb-guide/108/81" group-title="USA ENT HD",US: Crime 360
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676376.ts
+#EXTINF:-1 tvg-chno="30" tvg-id="CrimeandInvestigationNetwork.us" tvg-name="US: CRIME & INVESTIGATION" tvg-logo="https://webstockreview.net/images/crime-clipart-crime-investigation-18.png" group-title="USA ENT HD",US: CRIME & INVESTIGATION
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418022.ts
+#EXTINF:-1 tvg-chno="31" tvg-id="CuriosityNOW.us" tvg-name="US: Curiosity Now" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/fbba6327-6393-4ddf-89b1-8d3a647406e2/chlogo-clb-guide/108/81" group-title="USA ENT HD",US: Curiosity Now
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676377.ts
+#EXTINF:-1 tvg-chno="32" tvg-id="CNBCWorld.us" tvg-name="US: CW" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/82cbe7f2-4ab4-4334-3989-ab02e44b5185/chlogo-clb-guide/108/81" group-title="USA ENT HD",US: CW
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676378.ts
+#EXTINF:-1 tvg-chno="33" tvg-id="DAYSTAR.us" tvg-name="US: Daystar" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/6ee7980c-e134-7e7a-7bd0-ddc88fb558cb/chlogo-clb-guide/108/81" group-title="USA ENT HD",US: Daystar
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676380.ts
+#EXTINF:-1 tvg-chno="34" tvg-id="DestinationAmerica.us" tvg-name="US: DESTINATION AMERICA" tvg-logo="https://i.ibb.co/b5G5C4r/destination-america.png" group-title="USA ENT HD",US: DESTINATION AMERICA
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417999.ts
+#EXTINF:-1 tvg-chno="35" tvg-id="DiscoveryChannelPacific.us" tvg-name="US: Discovery Channel (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png" group-title="USA ENT HD",US: Discovery Channel (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419326.ts
+#EXTINF:-1 tvg-chno="36" tvg-id="DiscoveryChannel.us" tvg-name="US: DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/250px-2019_Discovery_logo.svg.png" group-title="USA ENT HD",US: DISCOVERY CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418001.ts
+#EXTINF:-1 tvg-chno="37" tvg-id="DiscoveryFamilyChannel.us" tvg-name="US: DISCOVERY FAMILY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/250px-Discovery_Family_logo.svg.png" group-title="USA ENT HD",US: DISCOVERY FAMILY CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418000.ts
+#EXTINF:-1 tvg-chno="38" tvg-id="DiscoveryLifeChannel.us" tvg-name="US: DISCOVERY LIFE" tvg-logo="https://i.ibb.co/VLGX2Ks/discovery-life.png" group-title="USA ENT HD",US: DISCOVERY LIFE
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418002.ts
+#EXTINF:-1 tvg-chno="39" tvg-id="ScienceChannel.us" tvg-name="US: DISCOVERY SCIENCE" tvg-logo="https://vignette4.wikia.nocookie.net/logosfake/images/a/a2/Discovery_Science_2017.png/revision/latest?cb=20170108231354" group-title="USA ENT HD",US: DISCOVERY SCIENCE
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/582846.ts
+#EXTINF:-1 tvg-chno="40" tvg-id="DogTV.us" tvg-name="US: DOG TV" tvg-logo="https://i.ibb.co/yPhnmz1/dog-tv-us.png" group-title="USA ENT HD",US: DOG TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417932.ts
+#EXTINF:-1 tvg-chno="41" tvg-id="DoveChannel.us" tvg-name="US: Dove Channel" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/ca52a885-706a-aa11-d31e-52dbfa61ba54/chlogo-clb-guide/108/81" group-title="USA ENT HD",US: Dove Channel
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676385.ts
+#EXTINF:-1 tvg-chno="42" tvg-id="Dust.us" tvg-name="US: Dust (S)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/dust-logo.png" group-title="USA ENT HD",US: Dust (S)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/494827.ts
+#EXTINF:-1 tvg-chno="43" tvg-id="EEntertainmentTelevision.us" tvg-name="US: E! ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/150px-E!_Logo.svg.png" group-title="USA ENT HD",US: E! ENTERTAINMENT
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417884.ts
+#EXTINF:-1 tvg-chno="44" tvg-id="EarthxTV.us" tvg-name="US: Earthx TV" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/76c132b0-fa3f-ac34-bc39-b0fecdc68e49/chlogo-clb-guide/108/81" group-title="USA ENT HD",US: Earthx TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676388.ts
+#EXTINF:-1 tvg-chno="45" tvg-id="EbonyTV.us" tvg-name="US: Ebony TV" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/bd572399-bf07-7b4e-39f5-92b97ba92ecc/chlogo-clb-guide/108/81" group-title="USA ENT HD",US: Ebony TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676389.ts
+#EXTINF:-1 tvg-chno="46" tvg-id="ElReyNetwork.us" tvg-name="US: El Rey Rebel" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/8bdb5846-80f2-3a63-7417-4ce193c45964/chlogo-clb-guide/108/81" group-title="USA ENT HD",US: El Rey Rebel
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676390.ts
+#EXTINF:-1 tvg-chno="47" tvg-id="Enlace.us" tvg-name="US: Enlace" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/d2f9ed64-9a6b-7d4d-41f9-791ac713abd9/chlogo-clb-guide/108/81" group-title="USA ENT HD",US: Enlace
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676391.ts
+#EXTINF:-1 tvg-chno="48" tvg-id="FETV.us" tvg-name="US: FETV" tvg-logo="https://streamingtvguides.com/img/d/FETV.png" group-title="USA ENT HD",US: FETV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/427248.ts
+#EXTINF:-1 tvg-chno="49" tvg-id="FoodNetwork.us" tvg-name="US: FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="USA ENT HD",US: FOOD NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417885.ts
+#EXTINF:-1 tvg-chno="50" tvg-id="FoodNetworkPacific.us" tvg-name="US: Food Network (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="USA ENT HD",US: Food Network (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419327.ts
+#EXTINF:-1 tvg-chno="51" tvg-id="FoxSports1.us" tvg-name="US: FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="USA ENT HD",US: FOX
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417988.ts
+#EXTINF:-1 tvg-chno="52" tvg-id="Freeform.us" tvg-name="US: FREEFORM" tvg-logo="https://i.ibb.co/VvrFDYt/freeform.png" group-title="USA ENT HD",US: FREEFORM
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417886.ts
+#EXTINF:-1 tvg-chno="53" tvg-id="FreeformPacific.us" tvg-name="US: Freeform (West)" tvg-logo="https://i.ibb.co/VvrFDYt/freeform.png" group-title="USA ENT HD",US: Freeform (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419328.ts
+#EXTINF:-1 tvg-chno="54" tvg-id="Fuse.us" tvg-name="US: FUSE" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/FUSE-logo.png" group-title="USA ENT HD",US: FUSE
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417887.ts
+#EXTINF:-1 tvg-chno="55" tvg-id="FuseMusic.us" tvg-name="US: Fuse Music" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/953bc9f7-4dc5-93b4-8052-2a3ba1cfe4af/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: Fuse Music
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676396.ts
+#EXTINF:-1 tvg-chno="56" tvg-id="FX.us" tvg-name="US: FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/731px-FX-logo.svg.png" group-title="USA ENT HD",US: FX
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417888.ts
+#EXTINF:-1 tvg-chno="57" tvg-id="FXPacific.us" tvg-name="US: FX (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/731px-FX-logo.svg.png" group-title="USA ENT HD",US: FX (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419329.ts
+#EXTINF:-1 tvg-chno="58" tvg-id="FXX.us" tvg-name="US: FXX" tvg-logo="https://www.unblockitall.com/wp-content/uploads/2018/10/fxx-logo.jpg" group-title="USA ENT HD",US: FXX
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417889.ts
+#EXTINF:-1 tvg-chno="59" tvg-id="FYIChannel.us" tvg-name="US: FYI" tvg-logo="https://static.epg.best/us/FYI.us.png" group-title="USA ENT HD",US: FYI
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417890.ts
+#EXTINF:-1 tvg-chno="60" tvg-id="FYIPacific.us" tvg-name="US: FYI (West)" tvg-logo="https://static.epg.best/us/FYI.us.png" group-title="USA ENT HD",US: FYI (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419331.ts
+#EXTINF:-1 tvg-chno="61" tvg-id="GameShowCentral.us" tvg-name="US: GAME SHOW CENTRAL" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/49/USAJ3400012FA_20210525T051618.png" group-title="USA ENT HD",US: GAME SHOW CENTRAL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417970.ts
+#EXTINF:-1 tvg-chno="62" tvg-id="getTV.us" tvg-name="US: GetTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/GetTV-logo.png/200px-GetTV-logo.png" group-title="USA ENT HD",US: GetTV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417971.ts
+#EXTINF:-1 tvg-chno="63" tvg-id="GoTraveler.us" tvg-name="US: GoTraveler" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/d2b40a56-a108-4bb2-8cda-28ae08ad0718/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: GoTraveler
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676397.ts
+#EXTINF:-1 tvg-chno="64" tvg-id="GreatAmericanFamily.us" tvg-name="US: GREAT AMERICAN COUNTRY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Great_American_Country_channel_logo.svg/250px-Great_American_Country_channel_logo.svg.png" group-title="USA ENT HD",US: GREAT AMERICAN COUNTRY
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418007.ts
+#EXTINF:-1 tvg-chno="65" tvg-id="Grit.us" tvg-name="US: GRIT TV" tvg-logo="https://i.ibb.co/GPfJtVJ/GRIT.png" group-title="USA ENT HD",US: GRIT TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417973.ts
+#EXTINF:-1 tvg-chno="66" tvg-id="GritXtra.us" tvg-name="US: GRIT Xtra" tvg-logo="https://i.ibb.co/GPfJtVJ/GRIT.png" group-title="USA ENT HD",US: GRIT Xtra
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/670113.ts
+#EXTINF:-1 tvg-chno="67" tvg-id="GameShowNetwork.us" tvg-name="US: GSN" tvg-logo="https://static.epg.best/us/GameShowNetwork.us.png" group-title="USA ENT HD",US: GSN
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417891.ts
+#EXTINF:-1 tvg-chno="68" tvg-id="GameShowNetworkPacific.us" tvg-name="US: GSN (West)" tvg-logo="https://static.epg.best/us/GameShowNetwork.us.png" group-title="USA ENT HD",US: GSN (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419334.ts
+#EXTINF:-1 tvg-chno="69" tvg-id="HallmarkChannel.us" tvg-name="US: HALLMARK CHANNEL" tvg-logo="https://i.ibb.co/F621kdw/hallmark-channel-us.png" group-title="USA ENT HD",US: HALLMARK CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417892.ts
+#EXTINF:-1 tvg-chno="70" tvg-id="HallmarkChannelPacific.us" tvg-name="US: Hallmark Channel (West)" tvg-logo="https://i.ibb.co/F621kdw/hallmark-channel-us.png" group-title="USA ENT HD",US: Hallmark Channel (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419335.ts
+#EXTINF:-1 tvg-chno="71" tvg-id="HallmarkFamily.us" tvg-name="US: HALLMARK FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/200px-Hallmark_Family_2024.svg.png" group-title="USA ENT HD",US: HALLMARK FAMILY
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417937.ts
+#EXTINF:-1 tvg-chno="72" tvg-id="HeroesAndIconsNetwork.us" tvg-name="US: HEROES AND ICONS" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/HRICNST/large_dark.png" group-title="USA ENT HD",US: HEROES AND ICONS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418012.ts
+#EXTINF:-1 tvg-chno="73" tvg-id="HerSphere.us" tvg-name="US: HerSphere" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/36a7cbf5-53bc-8dd0-7bd2-1e83efc3353a/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: HerSphere
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676399.ts
+#EXTINF:-1 tvg-chno="74" tvg-id="HGTV.us" tvg-name="US: HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/200px-HGTV_2010.svg.png" group-title="USA ENT HD",US: HGTV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417997.ts
+#EXTINF:-1 tvg-chno="75" tvg-id="HGTVPacific.us" tvg-name="US: HGTV (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/200px-HGTV_2010.svg.png" group-title="USA ENT HD",US: HGTV (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419336.ts
+#EXTINF:-1 tvg-chno="76" tvg-id="History.us" tvg-name="US: HISTORY" tvg-logo="https://imgx.fubo.tv/station_logos/history_channel_c.png" group-title="USA ENT HD",US: HISTORY
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417998.ts
+#EXTINF:-1 tvg-chno="77" tvg-id="HistoryChannelPacific.us" tvg-name="US: History (West)" tvg-logo="https://imgx.fubo.tv/station_logos/history_channel_c.png" group-title="USA ENT HD",US: History (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419337.ts
+#EXTINF:-1 tvg-chno="78" tvg-id="HSN.us" tvg-name="US: HSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1038px-HSN_logo.svg.png" group-title="USA ENT HD",US: HSN
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/494826.ts
+#EXTINF:-1 tvg-chno="79" tvg-id="HSN2.us" tvg-name="US: HSN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1038px-HSN_logo.svg.png" group-title="USA ENT HD",US: HSN2
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/528485.ts
+#EXTINF:-1 tvg-chno="80" tvg-id="IFC.us" tvg-name="US: IFC" tvg-logo="https://www.pickcinema.com/images/tv/logos/ifc.png" group-title="USA ENT HD",US: IFC
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417893.ts
+#EXTINF:-1 tvg-chno="81" tvg-id="INSP.us" tvg-name="US: INSP" tvg-logo="https://i.ibb.co/jGkLDvD/insp-us.png" group-title="USA ENT HD",US: INSP
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417938.ts
+#EXTINF:-1 tvg-chno="82" tvg-id="InvestigationDiscovery.us" tvg-name="US: INVESTIGATION DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/200px-InvestigationDiscoveryLogo2020.svg.png" group-title="USA ENT HD",US: INVESTIGATION DISCOVERY
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418004.ts
+#EXTINF:-1 tvg-chno="83" tvg-id="InvestigationDiscoveryPacific.us" tvg-name="US: Investigation Discovery (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/200px-InvestigationDiscoveryLogo2020.svg.png" group-title="USA ENT HD",US: Investigation Discovery (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419339.ts
+#EXTINF:-1 tvg-chno="84" tvg-id="InsightTV.us" tvg-name="US: INWONDER" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/7fdaa256-b9f3-49a3-b6a9-7d346ee1211f/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: INWONDER
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676403.ts
+#EXTINF:-1 tvg-chno="85" tvg-id="IONPlus.us" tvg-name="US: ION Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="USA ENT HD",US: ION Plus
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417975.ts
+#EXTINF:-1 tvg-chno="86" tvg-id="IonTV.us" tvg-name="US: ION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ion_Television_logo.svg/1200px-Ion_Television_logo.svg.png" group-title="USA ENT HD",US: ION TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417939.ts
+#EXTINF:-1 tvg-chno="87" tvg-id="JewelryTelevision.us" tvg-name="US: Jewelry TV" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/7886d5c2-2559-9822-f009-3c72a2f6fb69/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: Jewelry TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676405.ts
+#EXTINF:-1 tvg-chno="88" tvg-id="JusticeCentral.us" tvg-name="US: Justice Central TV" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/cf7d17e0-f70e-9775-73a4-bd109035b169/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: Justice Central TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676407.ts
+#EXTINF:-1 tvg-chno="89" tvg-id="Laff.us" tvg-name="US: LAFF TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LAFF_logo.png/200px-LAFF_logo.png" group-title="USA ENT HD",US: LAFF TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417976.ts
+#EXTINF:-1 tvg-chno="90" tvg-id="LawAndCrime.us" tvg-name="US: Law & Crime" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Law_%26_Crime_Network.png/revision/latest?cb=20240924144651" group-title="USA ENT HD",US: Law & Crime
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676436.ts
+#EXTINF:-1 tvg-chno="91" tvg-id="Lifetime.us" tvg-name="US: LIFETIME" tvg-logo="https://i.ibb.co/BsHQcqY/lifetime-us.png" group-title="USA ENT HD",US: LIFETIME
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417894.ts
+#EXTINF:-1 tvg-chno="92" tvg-id="Logo.us" tvg-name="US: LOGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/150px-Logo_TV_2015.svg.png" group-title="USA ENT HD",US: LOGO
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417895.ts
+#EXTINF:-1 tvg-chno="93" tvg-id="LoveNature.us" tvg-name="US: Love Nature" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/608db494-74ae-63bb-7b98-fff85bd1f6c3/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: Love Nature
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676409.ts
+#EXTINF:-1 tvg-chno="94" tvg-id="MagnoliaNetwork.us" tvg-name="US: MAGNOLIA NETWORK" tvg-logo="https://ipmark.com/wp-content/uploads/2020/04/Magnolia6-logo-green.png" group-title="USA ENT HD",US: MAGNOLIA NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418003.ts
+#EXTINF:-1 tvg-chno="95" tvg-id="MeTV.us" tvg-name="US: ME TV" tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2015/11/metv-2.png" group-title="USA ENT HD",US: ME TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417978.ts
+#EXTINF:-1 tvg-chno="96" tvg-id="MeTV+.us" tvg-name="US: ME TV PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/220px-MeTV_Logo.svg.png" group-title="USA ENT HD",US: ME TV PLUS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/672065.ts
+#EXTINF:-1 tvg-chno="97" tvg-id="MilitaryHistoryChannel.us" tvg-name="US: MILITARY HISTORY CHANNEL" tvg-logo="https://tv.mediasearch.verizon.com/ResourcesFiles/ImageLibrary/ChannelLogos/D/H/43_Lrg/MIH.png" group-title="USA ENT HD",US: MILITARY HISTORY CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418028.ts
+#EXTINF:-1 tvg-chno="98" tvg-id="MLBNetwork.us" tvg-name="US: MLB NETWORK SD" tvg-logo="https://i.ibb.co/8zbcwSh/mlb-network.png" group-title="USA ENT HD",US: MLB NETWORK SD
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/367112.ts
+#EXTINF:-1 tvg-chno="99" tvg-id="Movies!.us" tvg-name="US: Movies!" tvg-logo="http://4.bp.blogspot.com/-8PDdw_OhALk/VyLMF6XMUnI/AAAAAAAAAEY/jZkr1E5HkP4Bfzd9FfohMncqzOtvTNGkwCK4B/s1600/Movies%2521_TV_Network_logo.png" group-title="USA ENT HD",US: Movies!
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/540664.ts
+#EXTINF:-1 tvg-chno="100" tvg-id="MTV.us" tvg-name="US: MTV" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png" group-title="USA ENT HD",US: MTV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417898.ts
+#EXTINF:-1 tvg-chno="101" tvg-id="MTVPacific.us" tvg-name="US: MTV (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png" group-title="USA ENT HD",US: MTV (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419342.ts
+#EXTINF:-1 tvg-chno="102" tvg-id="MTV2Pacific.us" tvg-name="US: MTV2 (West)" tvg-logo="http://www.jeffgreenleaf.com/wp-content/uploads/MTV2.png" group-title="USA ENT HD",US: MTV2 (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419344.ts
+#EXTINF:-1 tvg-chno="103" tvg-id="MTV2.us" tvg-name="US: MTV 2" tvg-logo="http://www.jeffgreenleaf.com/wp-content/uploads/MTV2.png" group-title="USA ENT HD",US: MTV 2
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417896.ts
+#EXTINF:-1 tvg-chno="104" tvg-id="MTVClassic.us" tvg-name="US: MTV CLASSIC" tvg-logo="https://i.ibb.co/vYc1pYt/mtv-classic-us.png" group-title="USA ENT HD",US: MTV CLASSIC
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417897.ts
+#EXTINF:-1 tvg-chno="105" tvg-id="MTVClassicPacific.us" tvg-name="US: MTV Classic (West)" tvg-logo="https://i.ibb.co/vYc1pYt/mtv-classic-us.png" group-title="USA ENT HD",US: MTV Classic (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419343.ts
+#EXTINF:-1 tvg-chno="106" tvg-id="mtvU.us" tvg-name="US: MTV U" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="USA ENT HD",US: MTV U
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417940.ts
+#EXTINF:-1 tvg-chno="107" tvg-id="NationalGeographicWild.us" tvg-name="US: NAT GEO WILD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="USA ENT HD",US: NAT GEO WILD
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418005.ts
+#EXTINF:-1 tvg-chno="108" tvg-id="NationalGeographicPacific.us" tvg-name="US: National Geographic (West)" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png" group-title="USA ENT HD",US: National Geographic (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419345.ts
+#EXTINF:-1 tvg-chno="109" tvg-id="NationalGeographic.us" tvg-name="US: NATIONAL GEOGRAPHIC CHANNEL" tvg-logo="http://pluspng.com/img-png/logo-national-geographic-png-logo-natgeo-png-1000.png" group-title="USA ENT HD",US: NATIONAL GEOGRAPHIC CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418006.ts
+#EXTINF:-1 tvg-chno="110" tvg-id="NBCChicagoNews.peacocktv" tvg-name="US: NBC" tvg-logo="https://clipartcraft.com/images/nbc-logo-new.png" group-title="USA ENT HD",US: NBC
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/424639.ts
+#EXTINF:-1 tvg-chno="111" tvg-id="Nosey.us" tvg-name="US: Nosey" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/62e8a5e0-2c60-2c74-1856-9aa1cb32948b/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: Nosey
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676413.ts
+#EXTINF:-1 tvg-chno="112" tvg-id="OutdoorChannel.us" tvg-name="US: OUTDOOR CHANNEL" tvg-logo="https://i.ibb.co/d73Thkh/outdoor-channel-us.png" group-title="USA ENT HD",US: OUTDOOR CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418014.ts
+#EXTINF:-1 tvg-chno="113" tvg-id="OutsideTelevision.us" tvg-name="US: OUTSIDE TV" tvg-logo="http://ww1.prweb.com/prfiles/2017/11/06/14887331/otv_header_logo_v5.png" group-title="USA ENT HD",US: OUTSIDE TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417941.ts
+#EXTINF:-1 tvg-chno="114" tvg-id="OvationTV.us" tvg-name="US: OVATION" tvg-logo="https://i.pinimg.com/originals/38/d2/08/38d2085fb16f59926ecab747224d7c3c.png" group-title="USA ENT HD",US: OVATION
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417899.ts
+#EXTINF:-1 tvg-chno="115" tvg-id="OWN.us" tvg-name="US: OWN" tvg-logo="http://direct-vs-dish.com/media/channel_logos/OWN_2011_logo.PNG.300x300_q85.png" group-title="USA ENT HD",US: OWN
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417900.ts
+#EXTINF:-1 tvg-chno="116" tvg-id="OxygenPacific.us" tvg-name="US: Oxygen (West)" tvg-logo="https://i.ibb.co/gwZM9kW/OXYGEN.png" group-title="USA ENT HD",US: Oxygen (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419346.ts
+#EXTINF:-1 tvg-chno="117" tvg-id="Oxygen.us" tvg-name="US: OXYGEN" tvg-logo="https://i.ibb.co/gwZM9kW/OXYGEN.png" group-title="USA ENT HD",US: OXYGEN
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417901.ts
+#EXTINF:-1 tvg-chno="118" tvg-id="ParamountNetwork.us" tvg-name="US: PARAMOUNT" tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/4/4e/Paramount_Network_2008.png/revision/latest?cb=20140825233920" group-title="USA ENT HD",US: PARAMOUNT
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417902.ts
+#EXTINF:-1 tvg-chno="119" tvg-id="ParamountNetworkPacific.us" tvg-name="US: Paramount Network (West)" tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/4/4e/Paramount_Network_2008.png/revision/latest?cb=20140825233920" group-title="USA ENT HD",US: Paramount Network (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419347.ts
+#EXTINF:-1 tvg-chno="120" tvg-id="PBSKidsNYC.us" tvg-name="US: PBS" tvg-logo="http://onlytimewilltell.xyz:2086/images/1a7f62ae6a0e97a6c65dd535bd88cbef.png" group-title="USA ENT HD",US: PBS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/683405.ts
+#EXTINF:-1 tvg-chno="121" tvg-id="ThePetCollective.us" tvg-name="US: Pet Collective" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/6a699b8f-3d82-d8ce-eeb4-44bf4d4e3dd5/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: Pet Collective
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676415.ts
+#EXTINF:-1 tvg-chno="122" tvg-id="POPPacific.us" tvg-name="US: POP (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9c/POP_TV_LOGO_2017.png" group-title="USA ENT HD",US: POP (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419349.ts
+#EXTINF:-1 tvg-chno="123" tvg-id="POP.us" tvg-name="US: POP" tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9c/POP_TV_LOGO_2017.png" group-title="USA ENT HD",US: POP
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417903.ts
+#EXTINF:-1 tvg-chno="124" tvg-id="PursuitChannel.us" tvg-name="US: PURSUIT CHANNEL" tvg-logo="https://i.ibb.co/mRcRbcJ/pursuit-us.png" group-title="USA ENT HD",US: PURSUIT CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417944.ts
+#EXTINF:-1 tvg-chno="125" tvg-id="QVC.us" tvg-name="US: QVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png" group-title="USA ENT HD",US: QVC
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417905.ts
+#EXTINF:-1 tvg-chno="126" tvg-id="QVC2.us" tvg-name="US: QVC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png" group-title="USA ENT HD",US: QVC 2
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417904.ts
+#EXTINF:-1 tvg-chno="127" tvg-id="Revolt.us" tvg-name="US: REVOLT" tvg-logo="https://vydia.com/wp-content/uploads/brand-logo-revolt-color.png" group-title="USA ENT HD",US: REVOLT
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417907.ts
+#EXTINF:-1 tvg-chno="128" tvg-id="RFDTV.us" tvg-name="US: RFD TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/RFD_TV.svg/400px-RFD_TV.svg.png" group-title="USA ENT HD",US: RFD TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417908.ts
+#EXTINF:-1 tvg-chno="129" tvg-id="ScienceChannel.us" tvg-name="US: Science" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/c6874cea-e0ae-8bda-80b4-a347b0e09a43/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: Science
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676419.ts
+#EXTINF:-1 tvg-chno="130" tvg-id="ScientologyNetwork.us" tvg-name="US: Scientology Network" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/5fe9e66f-bdb4-dbb1-ace0-504734ce970c/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: Scientology Network
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676420.ts
+#EXTINF:-1 tvg-chno="131" tvg-id="ShopLC.us" tvg-name="US: Shop LC" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/c697423f-24ae-9691-cf3e-b0753f8ad23a/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: Shop LC
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676421.ts
+#EXTINF:-1 tvg-chno="132" tvg-id="ShortsTV.us" tvg-name="US: Shorts TV" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/24c133b3-ae88-b1b2-efdb-357127a9d1d7/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: Shorts TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676422.ts
+#EXTINF:-1 tvg-chno="133" tvg-id="SmithsonianNetwork.us" tvg-name="US: SMITHSONIAN CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Smithsonian_Channel_current_logo.png/300px-Smithsonian_Channel_current_logo.png" group-title="USA ENT HD",US: SMITHSONIAN CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417909.ts
+#EXTINF:-1 tvg-chno="134" tvg-id="StartTV.us" tvg-name="US: START TV" tvg-logo="https://i.ibb.co/6W9dtBL/start-tv.png" group-title="USA ENT HD",US: START TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/424885.ts
+#EXTINF:-1 tvg-chno="135" tvg-id="SundanceTV.us" tvg-name="US: SUNDANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Sundance_Channel_HD_Logo.png" group-title="USA ENT HD",US: SUNDANCE
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417910.ts
+#EXTINF:-1 tvg-chno="136" tvg-id="SyfyPacific.us" tvg-name="US: SYFY (West)" tvg-logo="https://i.ibb.co/QccY2pW/syfy.png" group-title="USA ENT HD",US: SYFY (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419359.ts
+#EXTINF:-1 tvg-chno="137" tvg-id="Syfy.us" tvg-name="US: SYFY" tvg-logo="https://i.ibb.co/QccY2pW/syfy.png" group-title="USA ENT HD",US: SYFY
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417911.ts
+#EXTINF:-1 tvg-chno="138" tvg-id="Tastemade+.us" tvg-name="US: Tastemade Food & More" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/6a0016fd-74ec-7d3e-973f-da042697284d/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: Tastemade Food & More
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676425.ts
+#EXTINF:-1 tvg-chno="139" tvg-id="TastemadeHome.us" tvg-name="US: Tastemade Home" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/900ddb32-a2e9-fa38-327f-266af6b3ca8b/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: Tastemade Home
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676426.ts
+#EXTINF:-1 tvg-chno="140" tvg-id="TastemadeTravel.us" tvg-name="US: Tastemade Travel" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/6e6081ac-415e-1e3e-5b0b-939ff4558368/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: Tastemade Travel
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676427.ts
+#EXTINF:-1 tvg-chno="141" tvg-id="TBSPacific.us" tvg-name="US: TBS (West)" tvg-logo="http://logonoid.com/images/tbs-logo.png" group-title="USA ENT HD",US: TBS (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419360.ts
+#EXTINF:-1 tvg-chno="142" tvg-id="TBS.us" tvg-name="US: TBS" tvg-logo="http://logonoid.com/images/tbs-logo.png" group-title="USA ENT HD",US: TBS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417913.ts
+#EXTINF:-1 tvg-chno="143" tvg-id="TheDesignNetwork.us" tvg-name="US: The Design Network" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/35703c79-93c8-a679-8282-ff6f0822d1d7/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: The Design Network
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676428.ts
+#EXTINF:-1 tvg-chno="144" tvg-id="outdoorcookingchannel.us" tvg-name="US: THE OUTDOOR COOKING CHANNEL" tvg-logo="https://www.24-7pressrelease.com/assets/attachments/036/press_release_distribution_0369661_72584.png" group-title="USA ENT HD",US: THE OUTDOOR COOKING CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418016.ts
+#EXTINF:-1 tvg-chno="145" tvg-id="TinyHouseNation.us" tvg-name="US: Tiny House Nation" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/5f7a1a3f-5bf9-54b5-eda8-7d6aee1d7e5c/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: Tiny House Nation
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676431.ts
+#EXTINF:-1 tvg-chno="146" tvg-id="TLCPacific.us" tvg-name="US: TLC (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="USA ENT HD",US: TLC (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419361.ts
+#EXTINF:-1 tvg-chno="147" tvg-id="TLC.us" tvg-name="US: TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="USA ENT HD",US: TLC
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417914.ts
+#EXTINF:-1 tvg-chno="148" tvg-id="TNTPacific.us" tvg-name="US: TNT (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA ENT HD",US: TNT (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419362.ts
+#EXTINF:-1 tvg-chno="149" tvg-id="TNT.us" tvg-name="US: TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="USA ENT HD",US: TNT
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417915.ts
+#EXTINF:-1 tvg-chno="150" tvg-id="TotalCrime.us" tvg-name="US: Total Crime" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/fdf99f1f-69b4-45d3-b532-a08f38def5f5/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: Total Crime
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676432.ts
+#EXTINF:-1 tvg-chno="151" tvg-id="TheTravelChannelPacific.us" tvg-name="US: Travel Channel (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png" group-title="USA ENT HD",US: Travel Channel (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419365.ts
+#EXTINF:-1 tvg-chno="152" tvg-id="TravelChannel.us" tvg-name="US: TRAVEL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png" group-title="USA ENT HD",US: TRAVEL CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417916.ts
+#EXTINF:-1 tvg-chno="153" tvg-id="truTV.us" tvg-name="US: TRU TV" tvg-logo="https://i.ibb.co/87xZpqT/trutv.png" group-title="USA ENT HD",US: TRU TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417917.ts
+#EXTINF:-1 tvg-chno="154" tvg-id="TrueCrimeNow.us" tvg-name="US: True Crime Now" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/a9222905-2b40-4c4c-bc5e-21e685d6ae26/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: True Crime Now
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676433.ts
+#EXTINF:-1 tvg-chno="155" tvg-id="TVLandPacific.us" tvg-name="US: TV Land (West)" tvg-logo="https://i.ibb.co/pzP0zQX/TV-LAND.png" group-title="USA ENT HD",US: TV Land (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419366.ts
+#EXTINF:-1 tvg-chno="156" tvg-id="TVLand.us" tvg-name="US: TV LAND" tvg-logo="https://i.ibb.co/pzP0zQX/TV-LAND.png" group-title="USA ENT HD",US: TV LAND
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417918.ts
+#EXTINF:-1 tvg-chno="157" tvg-id="TVOne.us" tvg-name="US: TV ONE" tvg-logo="https://2.bp.blogspot.com/-8uYxdlVvpd4/T9lqRz0Us7I/AAAAAAAAAcM/NXcsS2CnEP0/s1600/TvOne_logo_(2010).png" group-title="USA ENT HD",US: TV ONE
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417919.ts
+#EXTINF:-1 tvg-chno="158" tvg-id="UnXplainedZone.us" tvg-name="US: UnXplained Zone" tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/channel/e273fbe5-4fb6-1a98-b5d2-2ff67c957f89/chlogo-clb-guide/96/72" group-title="USA ENT HD",US: UnXplained Zone
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/676434.ts
+#EXTINF:-1 tvg-chno="159" tvg-id="UP.us" tvg-name="US: UP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/UPTV_Tiffany_RGB.svg/1200px-UPTV_Tiffany_RGB.svg.png" group-title="USA ENT HD",US: UP TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417920.ts
+#EXTINF:-1 tvg-chno="160" tvg-id="USANetworkPacific.us" tvg-name="US: USA NETWORK (West)" tvg-logo="https://i.ibb.co/0YWwd2B/usa.png" group-title="USA ENT HD",US: USA NETWORK (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419369.ts
+#EXTINF:-1 tvg-chno="161" tvg-id="USANetwork.us" tvg-name="US: USA NETWORK" tvg-logo="https://i.ibb.co/0YWwd2B/usa.png" group-title="USA ENT HD",US: USA NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417921.ts
+#EXTINF:-1 tvg-chno="162" tvg-id="VH1Pacific.us" tvg-name="US: VH1 (West)" tvg-logo="https://clipground.com/images/vh1-logo-5.png" group-title="USA ENT HD",US: VH1 (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419370.ts
+#EXTINF:-1 tvg-chno="163" tvg-id="VH1.us" tvg-name="US: VH1" tvg-logo="https://clipground.com/images/vh1-logo-5.png" group-title="USA ENT HD",US: VH1
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417922.ts
+#EXTINF:-1 tvg-chno="164" tvg-id="Vice.us" tvg-name="US: VICE" tvg-logo="https://www.martechalliance.com/hs-fs/hubfs/vice-logo.png?width=1187&name=vice-logo.png" group-title="USA ENT HD",US: VICE
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417923.ts
+#EXTINF:-1 tvg-chno="165" tvg-id="WeTV.us" tvg-name="US: WE TV" tvg-logo="http://images3.wikia.nocookie.net/__cb20100505211615/logopedia/images/thumb/3/3a/WE_TV_logo.svg/542px-WE_TV_logo.svg.png" group-title="USA ENT HD",US: WE TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417924.ts
+#EXTINF:-1 tvg-chno="166" tvg-id="BabyFirst.us" tvg-name="US: BABY FIRST" tvg-logo="https://i.ibb.co/Rjr6NK1/BABY-FIRST.png" group-title="USA KIDS HD",US: BABY FIRST
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418035.ts
+#EXTINF:-1 tvg-chno="167" tvg-id="Boomerang.us" tvg-name="US: BOOMERANG" tvg-logo="https://www.logolynx.com/images/logolynx/cb/cb647cf1e1fc1bc0d0165c36b7ec227d.png" group-title="USA KIDS HD",US: BOOMERANG
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418036.ts
+#EXTINF:-1 tvg-chno="168" tvg-id="CartoonNetworkPacific.us" tvg-name="US: Cartoon Network (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="USA KIDS HD",US: Cartoon Network (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419270.ts
+#EXTINF:-1 tvg-chno="169" tvg-id="CartoonNetwork.us" tvg-name="US: CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="USA KIDS HD",US: CARTOON NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418037.ts
+#EXTINF:-1 tvg-chno="170" tvg-id="DisneyChannelPacific.us" tvg-name="US: Disney Channel (West)" tvg-logo="http://3.bp.blogspot.com/-LzzbVc18-vo/UaIsNVYWrGI/AAAAAAAACkY/gvKSMjbyb4A/s1600/DisneyChannelEARS.png" group-title="USA KIDS HD",US: Disney Channel (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419271.ts
+#EXTINF:-1 tvg-chno="171" tvg-id="DisneyChannel.us" tvg-name="US: DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_(2014).svg/1200px-Disney_Channel_logo_(2014).svg.png" group-title="USA KIDS HD",US: DISNEY CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418033.ts
+#EXTINF:-1 tvg-chno="172" tvg-id="DisneyJunior.us" tvg-name="US: DISNEY JR." tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/b2/b7/22/b2b72295281d514754baa8452788c800.png" group-title="USA KIDS HD",US: DISNEY JR.
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418042.ts
+#EXTINF:-1 tvg-chno="173" tvg-id="DisneyJuniorPacific.us" tvg-name="US: Disney Junior (West)" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/b2/b7/22/b2b72295281d514754baa8452788c800.png" group-title="USA KIDS HD",US: Disney Junior (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419272.ts
+#EXTINF:-1 tvg-chno="174" tvg-id="DisneyXDPacific.us" tvg-name="US: Disney XD (West)" tvg-logo="https://i.ibb.co/6mNMjGy/DISNEY-XD.png" group-title="USA KIDS HD",US: Disney XD (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419273.ts
+#EXTINF:-1 tvg-chno="175" tvg-id="DisneyXD.us" tvg-name="US: DISNEY XD" tvg-logo="https://i.ibb.co/6mNMjGy/DISNEY-XD.png" group-title="USA KIDS HD",US: DISNEY XD
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418034.ts
+#EXTINF:-1 tvg-chno="176" tvg-id="MeTvToons.us" tvg-name="US: ME TV TOONS" tvg-logo="https://www.metvtoons.com/images/metvtoons_logo.png" group-title="USA KIDS HD",US: ME TV TOONS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/648108.ts
+#EXTINF:-1 tvg-chno="177" tvg-id="NickJrPacific.us" tvg-name="US: Nick Jr (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/186px-Nick_Jr._logo_2009.svg.png" group-title="USA KIDS HD",US: Nick Jr (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419274.ts
+#EXTINF:-1 tvg-chno="178" tvg-id="NickJr.us" tvg-name="US: NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/186px-Nick_Jr._logo_2009.svg.png" group-title="USA KIDS HD",US: NICK JR
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418031.ts
+#EXTINF:-1 tvg-chno="179" tvg-id="Nickelodeon.us" tvg-name="US: NICKELODEON" tvg-logo="https://clipground.com/images/nickelodeon-clipart-3.png" group-title="USA KIDS HD",US: NICKELODEON
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418039.ts
+#EXTINF:-1 tvg-chno="180" tvg-id="NickelodeonPacific.us" tvg-name="US: Nickelodeon (West)" tvg-logo="https://clipground.com/images/nickelodeon-clipart-3.png" group-title="USA KIDS HD",US: Nickelodeon (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419275.ts
+#EXTINF:-1 tvg-chno="181" tvg-id="Nicktoons.us" tvg-name="US: NICKTOONS" tvg-logo="https://logodix.com/logo/1280294.png" group-title="USA KIDS HD",US: NICKTOONS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418032.ts
+#EXTINF:-1 tvg-chno="182" tvg-id="NickToonsPacific.us" tvg-name="US: Nicktoons (West)" tvg-logo="https://logodix.com/logo/1280294.png" group-title="USA KIDS HD",US: Nicktoons (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419276.ts
+#EXTINF:-1 tvg-chno="183" tvg-id="PBSKidsNYC.us" tvg-name="US: PBS KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/220px-PBS_Kids_logo_%282022%29.svg.png" group-title="USA KIDS HD",US: PBS KIDS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418040.ts
+#EXTINF:-1 tvg-chno="184" tvg-id="TeenNick.us" tvg-name="US: TEENNICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/250px-TeenNick_2019_logo.svg.png" group-title="USA KIDS HD",US: TEENNICK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418030.ts
+#EXTINF:-1 tvg-chno="185" tvg-id="TeenNickPacific.us" tvg-name="US: TeenNick (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/250px-TeenNick_2019_logo.svg.png" group-title="USA KIDS HD",US: TeenNick (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419277.ts
+#EXTINF:-1 tvg-chno="186" tvg-id="AMCPlus.us" tvg-name="US: AMC PLUS" tvg-logo="https://www.gamespot.com/a/uploads/scale_landscape/1595/15950357/3833184-amcplus.png" group-title="USA MOVIES HD",US: AMC PLUS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418079.ts
+#EXTINF:-1 tvg-chno="187" tvg-id="CineMAXPacific.us" tvg-name="US: Cinemax (West)" tvg-logo="https://logonoid.com/images/cinemax-logo.png" group-title="USA MOVIES HD",US: Cinemax (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419280.ts
+#EXTINF:-1 tvg-chno="188" tvg-id="CineMAX.us" tvg-name="US: CINEMAX" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png" group-title="USA MOVIES HD",US: CINEMAX
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418077.ts
+#EXTINF:-1 tvg-chno="189" tvg-id="Cinemax5StarMAX.us" tvg-name="US: CINEMAX 5 STARMAX" tvg-logo="http://pluspng.com/img-png/5star-hd-png-five-star-max-hdtv-400.png" group-title="USA MOVIES HD",US: CINEMAX 5 STARMAX
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418081.ts
+#EXTINF:-1 tvg-chno="190" tvg-id="ActionMAX.us" tvg-name="US: CINEMAX ACTIONMAX" tvg-logo="http://images1.wikia.nocookie.net/__cb20100322084953/logopedia/images/thumb/7/7a/ActionMax_logo.svg/500px-ActionMax_logo.svg.png" group-title="USA MOVIES HD",US: CINEMAX ACTIONMAX
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418104.ts
+#EXTINF:-1 tvg-chno="191" tvg-id="ActionMaxPacific.us" tvg-name="US: Cinemax ActionMax (West)" tvg-logo="https://wtcks.com/images/channels/logos/actionmax.png" group-title="USA MOVIES HD",US: Cinemax ActionMax (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419281.ts
+#EXTINF:-1 tvg-chno="192" tvg-id="MoreMAXPacific.us" tvg-name="US: Cinemax MoreMax (West)" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png" group-title="USA MOVIES HD",US: Cinemax MoreMax (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419282.ts
+#EXTINF:-1 tvg-chno="193" tvg-id="MoreMax.us" tvg-name="US: CINEMAX MOREMAX" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png" group-title="USA MOVIES HD",US: CINEMAX MOREMAX
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418078.ts
+#EXTINF:-1 tvg-chno="194" tvg-id="MovieMax.us" tvg-name="US: CINEMAX MOVIEMAX" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png" group-title="USA MOVIES HD",US: CINEMAX MOVIEMAX
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418082.ts
+#EXTINF:-1 tvg-chno="195" tvg-id="OuterMAX.us" tvg-name="US: CINEMAX OUTERMAX" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png" group-title="USA MOVIES HD",US: CINEMAX OUTERMAX
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418080.ts
+#EXTINF:-1 tvg-chno="196" tvg-id="ThrillerMAX.us" tvg-name="US: CINEMAX THRILLERMAX" tvg-logo="https://i.ibb.co/ypFwjgJ/CINEMAX-THRILLERMAX.png" group-title="USA MOVIES HD",US: CINEMAX THRILLERMAX
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418105.ts
+#EXTINF:-1 tvg-chno="197" tvg-id="ThrillerMAXPacific.us" tvg-name="US: Cinemax ThrillerMax (West)" tvg-logo="https://i.ibb.co/ypFwjgJ/CINEMAX-THRILLERMAX.png" group-title="USA MOVIES HD",US: Cinemax ThrillerMax (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419283.ts
+#EXTINF:-1 tvg-chno="198" tvg-id="CINEVAULTClassics.us" tvg-name="US: CINEVAULT 80s" tvg-logo="http://cinevaulttv.com/images/cinevault_master_logo.png" group-title="USA MOVIES HD",US: CINEVAULT 80s
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418108.ts
+#EXTINF:-1 tvg-chno="199" tvg-id="CINEVAULTWesterns.us" tvg-name="US: CINEVAULT WESTERNS" tvg-logo="http://cinevaulttv.com/images/cinevault_master_logo.png" group-title="USA MOVIES HD",US: CINEVAULT WESTERNS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418109.ts
+#EXTINF:-1 tvg-chno="200" tvg-id="FilmRiseTrueCrime.us" tvg-name="US: FILMRISE CRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png" group-title="USA MOVIES HD",US: FILMRISE CRIME
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418056.ts
+#EXTINF:-1 tvg-chno="201" tvg-id="FLIX.us" tvg-name="US: FLIX" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/FLIX-logo.png" group-title="USA MOVIES HD",US: FLIX
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419285.ts
+#EXTINF:-1 tvg-chno="202" tvg-id="FlixPacific.us" tvg-name="US: Flix (West)" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/FLIX-logo.png" group-title="USA MOVIES HD",US: Flix (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419286.ts
+#EXTINF:-1 tvg-chno="203" tvg-id="FXMovies.us" tvg-name="US: FX MOVIE CHANNEL" tvg-logo="http://1.bp.blogspot.com/-gxKZ3ipuc5A/UXx5mJaIhBI/AAAAAAAAAKs/vt9ipkpNgiY/s1600/1+FXM-Logo.png" group-title="USA MOVIES HD",US: FX MOVIE CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418089.ts
+#EXTINF:-1 tvg-chno="204" tvg-id="GravitasMovies.us" tvg-name="US: GRAVITAS MOVIES" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/18/USAJ3504703A20200730102745.png" group-title="USA MOVIES HD",US: GRAVITAS MOVIES
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418090.ts
+#EXTINF:-1 tvg-chno="205" tvg-id="HallmarkMoviesandMore.us" tvg-name="US: HALLMARK MOVIES & MORE" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png" group-title="USA MOVIES HD",US: HALLMARK MOVIES & MORE
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418091.ts
+#EXTINF:-1 tvg-chno="206" tvg-id="HallmarkMoviesAndMysteries.us" tvg-name="US: HALLMARK MOVIES & MYSTERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hallmark_Mystery_2024.svg/220px-Hallmark_Mystery_2024.svg.png" group-title="USA MOVIES HD",US: HALLMARK MOVIES & MYSTERIES
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418098.ts
+#EXTINF:-1 tvg-chno="207" tvg-id="HBO.us" tvg-name="US: HBO" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="USA MOVIES HD",US: HBO
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/568124.ts
+#EXTINF:-1 tvg-chno="208" tvg-id="HBOPacific.us" tvg-name="US: HBO (West)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="USA MOVIES HD",US: HBO (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419287.ts
+#EXTINF:-1 tvg-chno="209" tvg-id="HBO2Pacific.us" tvg-name="US: HBO2 (West)" tvg-logo="https://logodix.com/logo/1265684.png" group-title="USA MOVIES HD",US: HBO2 (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419293.ts
+#EXTINF:-1 tvg-chno="210" tvg-id="HBO2.us" tvg-name="US: HBO 2" tvg-logo="https://logodix.com/logo/1265684.png" group-title="USA MOVIES HD",US: HBO 2
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418058.ts
+#EXTINF:-1 tvg-chno="211" tvg-id="HBOComedy.us" tvg-name="US: HBO COMEDY" tvg-logo="https://logodix.com/logo/1016096.png" group-title="USA MOVIES HD",US: HBO COMEDY
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418059.ts
+#EXTINF:-1 tvg-chno="212" tvg-id="HBOComedyPacific.us" tvg-name="US: HBO Comedy (West)" tvg-logo="https://logodix.com/logo/1016096.png" group-title="USA MOVIES HD",US: HBO Comedy (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419288.ts
+#EXTINF:-1 tvg-chno="213" tvg-id="HBOFamily.us" tvg-name="US: HBO FAMILY" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" group-title="USA MOVIES HD",US: HBO FAMILY
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418060.ts
+#EXTINF:-1 tvg-chno="214" tvg-id="HBOFamilyPacific.us" tvg-name="US: HBO Family (West)" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" group-title="USA MOVIES HD",US: HBO Family (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419289.ts
+#EXTINF:-1 tvg-chno="215" tvg-id="HBOSignature.us" tvg-name="US: HBO SIGNATURE" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="USA MOVIES HD",US: HBO SIGNATURE
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418061.ts
+#EXTINF:-1 tvg-chno="216" tvg-id="HBOSignaturePacific.us" tvg-name="US: HBO Signature (West)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="USA MOVIES HD",US: HBO Signature (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419291.ts
+#EXTINF:-1 tvg-chno="217" tvg-id="HBOZone.us" tvg-name="US: HBO ZONE" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="USA MOVIES HD",US: HBO ZONE
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418092.ts
+#EXTINF:-1 tvg-chno="218" tvg-id="HBOZonePacific.us" tvg-name="US: HBO Zone (West)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" group-title="USA MOVIES HD",US: HBO Zone (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419292.ts
+#EXTINF:-1 tvg-chno="219" tvg-id="IndiePlex.us" tvg-name="US: INDIE PLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Indieplex_logo.svg/220px-Indieplex_logo.svg.png" group-title="USA MOVIES HD",US: INDIE PLEX
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418063.ts
+#EXTINF:-1 tvg-chno="220" tvg-id="LifetimeMoviesNetwork.us" tvg-name="US: LIFETIME MOVIE NETWORK" tvg-logo="https://orig00.deviantart.net/0afa/f/2016/041/6/6/lifetime_movie_network_new_logo_by_dledeviant-d9r85ry.png" group-title="USA MOVIES HD",US: LIFETIME MOVIE NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417990.ts
+#EXTINF:-1 tvg-chno="221" tvg-id="MGM+DriveIn.us" tvg-name="US: MGM+ Drive-In" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/220px-MGM%2B_logo.svg.png" group-title="USA MOVIES HD",US: MGM+ Drive-In
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418100.ts
+#EXTINF:-1 tvg-chno="222" tvg-id="MGM+.us" tvg-name="US: MGM+ East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/220px-MGM%2B_logo.svg.png" group-title="USA MOVIES HD",US: MGM+ East
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418055.ts
+#EXTINF:-1 tvg-chno="223" tvg-id="MGM+Hits.us" tvg-name="US: MGM+ Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/220px-MGM%2B_logo.svg.png" group-title="USA MOVIES HD",US: MGM+ Hits
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418099.ts
+#EXTINF:-1 tvg-chno="224" tvg-id="MGM+Marquee.us" tvg-name="US: MGM+ Marquee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/220px-MGM%2B_logo.svg.png" group-title="USA MOVIES HD",US: MGM+ Marquee
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418101.ts
+#EXTINF:-1 tvg-chno="225" tvg-id="MGM+Pacific.us" tvg-name="US: MGM+ West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/220px-MGM%2B_logo.svg.png" group-title="USA MOVIES HD",US: MGM+ West
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419284.ts
+#EXTINF:-1 tvg-chno="226" tvg-id="MoviePlex.us" tvg-name="US: MOVIEPLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/250px-Movieplex_logo.svg.png" group-title="USA MOVIES HD",US: MOVIEPLEX
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418093.ts
+#EXTINF:-1 tvg-chno="227" tvg-id="HDNetMovies.us" tvg-name="US: NET MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/HDNET_Movies_Logo.png" group-title="USA MOVIES HD",US: NET MOVIES
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418062.ts
+#EXTINF:-1 tvg-chno="228" tvg-id="PixL.us" tvg-name="US: PIXL" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/PIXL-logo.png" group-title="USA MOVIES HD",US: PIXL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/424640.ts
+#EXTINF:-1 tvg-chno="229" tvg-id="ReelzChannel.us" tvg-name="US: REELZ CHANNEL" tvg-logo="http://showbizjunkies.com/wp-content/uploads/2013/07/reelz-channel-logo.jpg" group-title="USA MOVIES HD",US: REELZ CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417906.ts
+#EXTINF:-1 tvg-chno="230" tvg-id="RetroPlex.us" tvg-name="US: RETRO PLEX" tvg-logo="https://logodix.com/logo/2114882.png" group-title="USA MOVIES HD",US: RETRO PLEX
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418102.ts
+#EXTINF:-1 tvg-chno="231" tvg-id="ScreenPixVoices.us" tvg-name="US: SCREEN PIX VOICES" tvg-logo="https://static.tv24.co/v2/channels/small/113008.png" group-title="USA MOVIES HD",US: SCREEN PIX VOICES
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418094.ts
+#EXTINF:-1 tvg-chno="232" tvg-id="ScreenPixWesterns.us" tvg-name="US: SCREEN PIX WESTERNS" tvg-logo="https://static.tv24.co/v2/channels/small/113002.png" group-title="USA MOVIES HD",US: SCREEN PIX WESTERNS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418095.ts
+#EXTINF:-1 tvg-chno="233" tvg-id="ScreenPix.us" tvg-name="US: ScreenPix" tvg-logo="https://i.postimg.cc/vmV2cV6h/maxresdefault-1.png" group-title="USA MOVIES HD",US: ScreenPix
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/472564.ts
+#EXTINF:-1 tvg-chno="234" tvg-id="Paramount+withShowtime.us" tvg-name="US: SHOWTIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: SHOWTIME
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418064.ts
+#EXTINF:-1 tvg-chno="235" tvg-id="Paramount+withShowtimePacific.us" tvg-name="US: Showtime (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: Showtime (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419294.ts
+#EXTINF:-1 tvg-chno="236" tvg-id="Showtime2.us" tvg-name="US: SHOWTIME 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: SHOWTIME 2
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418103.ts
+#EXTINF:-1 tvg-chno="237" tvg-id="Showtime2Pacific.us" tvg-name="US: Showtime 2 (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: Showtime 2 (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419295.ts
+#EXTINF:-1 tvg-chno="238" tvg-id="ShowtimeExtreme.us" tvg-name="US: SHOWTIME EXTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: SHOWTIME EXTREME
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418065.ts
+#EXTINF:-1 tvg-chno="239" tvg-id="ShowtimeExtremePacific.us" tvg-name="US: Showtime Extreme (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: Showtime Extreme (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419296.ts
+#EXTINF:-1 tvg-chno="240" tvg-id="ShowtimeFamilyzone.us" tvg-name="US: SHOWTIME FAMILY ZONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: SHOWTIME FAMILY ZONE
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418066.ts
+#EXTINF:-1 tvg-chno="241" tvg-id="ShowtimeFamilyzonePacific.us" tvg-name="US: Showtime Family Zone (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: Showtime Family Zone (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419297.ts
+#EXTINF:-1 tvg-chno="242" tvg-id="ShowtimeNext.us" tvg-name="US: SHOWTIME NEXT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: SHOWTIME NEXT
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418067.ts
+#EXTINF:-1 tvg-chno="243" tvg-id="ShowtimeNextPacific.us" tvg-name="US: Showtime Next (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: Showtime Next (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419298.ts
+#EXTINF:-1 tvg-chno="244" tvg-id="ShowtimeShowcase.us" tvg-name="US: SHOWTIME SHOWCASE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png" group-title="USA MOVIES HD",US: SHOWTIME SHOWCASE
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418068.ts
+#EXTINF:-1 tvg-chno="245" tvg-id="ShowtimeShowcasePacific.us" tvg-name="US: Showtime Showcase (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png" group-title="USA MOVIES HD",US: Showtime Showcase (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419299.ts
+#EXTINF:-1 tvg-chno="246" tvg-id="ShowtimeWomenPacific.us" tvg-name="US: Showtime Women (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: Showtime Women (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419300.ts
+#EXTINF:-1 tvg-chno="247" tvg-id="ShowtimeWomen.us" tvg-name="US: SHOWTIME WOMEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: SHOWTIME WOMEN
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418069.ts
+#EXTINF:-1 tvg-chno="248" tvg-id="SHOxBET.us" tvg-name="US: SHOxBET" tvg-logo="https://i.pinimg.com/originals/90/38/12/903812417068d8e6b249e823297ae908.png" group-title="USA MOVIES HD",US: SHOxBET
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418096.ts
+#EXTINF:-1 tvg-chno="249" tvg-id="SonyMovieChannel.us" tvg-name="US: SONY MOVIE CHANNEL" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/6/69/Sony_Movie_Channel_logo.png/revision/latest?cb=20140312133014" group-title="USA MOVIES HD",US: SONY MOVIE CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418070.ts
+#EXTINF:-1 tvg-chno="250" tvg-id="StarzPacific.us" tvg-name="US: Starz (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419301.ts
+#EXTINF:-1 tvg-chno="251" tvg-id="Starz.us" tvg-name="US: STARZ" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418054.ts
+#EXTINF:-1 tvg-chno="252" tvg-id="StarzCinemaPacific.us" tvg-name="US: Starz Cinema (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Cinema (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419302.ts
+#EXTINF:-1 tvg-chno="253" tvg-id="StarzCinema.us" tvg-name="US: STARZ CINEMA" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ CINEMA
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418071.ts
+#EXTINF:-1 tvg-chno="254" tvg-id="StarzComedy.us" tvg-name="US: STARZ COMEDY" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ COMEDY
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418072.ts
+#EXTINF:-1 tvg-chno="255" tvg-id="StarzEdgePacific.us" tvg-name="US: Starz Edge (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Edge (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419303.ts
+#EXTINF:-1 tvg-chno="256" tvg-id="StarzEdge.us" tvg-name="US: STARZ EDGE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ EDGE
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418073.ts
+#EXTINF:-1 tvg-chno="257" tvg-id="StarzEncorePacific.us" tvg-name="US: Starz Encore (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419304.ts
+#EXTINF:-1 tvg-chno="258" tvg-id="StarzEncore.us" tvg-name="US: STARZ ENCORE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418051.ts
+#EXTINF:-1 tvg-chno="259" tvg-id="StarzEncoreActionPacific.us" tvg-name="US: Starz Encore Action (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Action (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419307.ts
+#EXTINF:-1 tvg-chno="260" tvg-id="StarzEncoreAction.us" tvg-name="US: STARZ ENCORE ACTION" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE ACTION
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418047.ts
+#EXTINF:-1 tvg-chno="261" tvg-id="StarzEncoreBlackPacific.us" tvg-name="US: Starz Encore Black (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Black (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419308.ts
+#EXTINF:-1 tvg-chno="262" tvg-id="StarzEncoreBlack.us" tvg-name="US: STARZ ENCORE BLACK" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE BLACK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418048.ts
+#EXTINF:-1 tvg-chno="263" tvg-id="StarzEncoreClassicPacific.us" tvg-name="US: Starz Encore Classic (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Classic (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419309.ts
+#EXTINF:-1 tvg-chno="264" tvg-id="StarzEncoreClassic.us" tvg-name="US: STARZ ENCORE CLASSIC" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE CLASSIC
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418049.ts
+#EXTINF:-1 tvg-chno="265" tvg-id="StarzEncoreFamily.us" tvg-name="US: STARZ ENCORE FAMILY" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE FAMILY
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418050.ts
+#EXTINF:-1 tvg-chno="266" tvg-id="StarzEncoreFamilyPacific.us" tvg-name="US: Starz Encore Family (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Family (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419310.ts
+#EXTINF:-1 tvg-chno="267" tvg-id="StarzEncoreSuspense.us" tvg-name="US: STARZ ENCORE SUSPENSE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE SUSPENSE
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418052.ts
+#EXTINF:-1 tvg-chno="268" tvg-id="StarzEncoreSuspensePacific.us" tvg-name="US: Starz Encore Suspense (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Suspense (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419311.ts
+#EXTINF:-1 tvg-chno="269" tvg-id="StarzEncoreWesternsPacific.us" tvg-name="US: Starz Encore Westerns (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Westerns (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419306.ts
+#EXTINF:-1 tvg-chno="270" tvg-id="StarzEncoreWesterns.us" tvg-name="US: STARZ ENCORE WESTERNS" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE WESTERNS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419305.ts
+#EXTINF:-1 tvg-chno="271" tvg-id="StarzinBlackPacific.us" tvg-name="US: Starz in Black (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz in Black (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419312.ts
+#EXTINF:-1 tvg-chno="272" tvg-id="StarzInBlack.us" tvg-name="US: STARZ IN BLACK" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ IN BLACK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418074.ts
+#EXTINF:-1 tvg-chno="273" tvg-id="StarzKids.us" tvg-name="US: STARZ KIDS AND FAMILY" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ KIDS AND FAMILY
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418075.ts
+#EXTINF:-1 tvg-chno="274" tvg-id="StarzKidsPacific.us" tvg-name="US: Starz Kids Family (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Kids Family (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419313.ts
+#EXTINF:-1 tvg-chno="275" tvg-id="TCMPacific.us" tvg-name="US: TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1200px-TCM_logo.svg.png" group-title="USA MOVIES HD",US: TCM
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418076.ts
+#EXTINF:-1 tvg-chno="276" tvg-id="TheMovieChannel.us" tvg-name="US: THE MOVIE CHANNEL" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9FJ98j7JWhdWMXZUmvcLRwHaCx&pid=Api&P=0&w=490&h=183" group-title="USA MOVIES HD",US: THE MOVIE CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418097.ts
+#EXTINF:-1 tvg-chno="277" tvg-id="TheMovieChannelWest.us" tvg-name="US: The Movie Channel (West)" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9FJ98j7JWhdWMXZUmvcLRwHaCx&pid=Api&P=0&w=490&h=183" group-title="USA MOVIES HD",US: The Movie Channel (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419316.ts
+#EXTINF:-1 tvg-chno="278" tvg-id="TheMovieChannelExtra.us" tvg-name="US: THE MOVIE CHANNEL EXTRA" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9FJ98j7JWhdWMXZUmvcLRwHaCx&pid=Api&P=0&w=490&h=183" group-title="USA MOVIES HD",US: THE MOVIE CHANNEL EXTRA
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419317.ts
+#EXTINF:-1 tvg-chno="279" tvg-id="TheMovieChannelExtraWest.us" tvg-name="US: The Movie Channel Extra (West)" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9FJ98j7JWhdWMXZUmvcLRwHaCx&pid=Api&P=0&w=490&h=183" group-title="USA MOVIES HD",US: The Movie Channel Extra (West)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419318.ts
+#EXTINF:-1 tvg-chno="280" tvg-id="Bloomberg.us" tvg-name="US: BLOOMBERG" tvg-logo="https://www.logolynx.com/images/logolynx/e0/e096db05661ba2674f11ea79fee149e9.png" group-title="USA NEWS HD",US: BLOOMBERG
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418113.ts
+#EXTINF:-1 tvg-chno="281" tvg-id="CSPAN.us" tvg-name="US: C-SPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/1200px-Logo_of_C-SPAN.svg.png" group-title="USA NEWS HD",US: C-SPAN
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418124.ts
+#EXTINF:-1 tvg-chno="282" tvg-id="CNBC.us" tvg-name="US: CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="USA NEWS HD",US: CNBC
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418115.ts
+#EXTINF:-1 tvg-chno="283" tvg-id="CNBCWorld.us" tvg-name="US: CNBC WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CNBC_World_2024.svg/200px-CNBC_World_2024.svg.png" group-title="USA NEWS HD",US: CNBC WORLD
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418116.ts
+#EXTINF:-1 tvg-chno="284" tvg-id="CNN.us" tvg-name="US: CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" group-title="USA NEWS HD",US: CNN
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418118.ts
+#EXTINF:-1 tvg-chno="285" tvg-id="FoxBusiness.us" tvg-name="US: FOX BUSINESS NETWORK" tvg-logo="http://thetalkinggeek.com/wp-content/uploads/2012/03/logo4.png" group-title="USA NEWS HD",US: FOX BUSINESS NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418110.ts
+#EXTINF:-1 tvg-chno="286" tvg-id="FoxNewsChannel.us" tvg-name="US: FOX NEWS CHANNEL" tvg-logo="https://i.ibb.co/PQ9dShg/FOX-NEWS-CHANNEL.png" group-title="USA NEWS HD",US: FOX NEWS CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418111.ts
+#EXTINF:-1 tvg-chno="287" tvg-id="HLN.us" tvg-name="US: HLN" tvg-logo="http://cdn.cnn.com/cnnnext/dam/assets/170504153443-hln-2017-logo-for-specials-page-large-169.png" group-title="USA NEWS HD",US: HLN
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418122.ts
+#EXTINF:-1 tvg-chno="288" tvg-id="MSNBC.us" tvg-name="US: MSNBC" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/08/msnbc_logo.png" group-title="USA NEWS HD",US: MSNBC
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418123.ts
+#EXTINF:-1 tvg-chno="289" tvg-id="NewsNation.us" tvg-name="US: NEWS NATION" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/news-nation-network-logo.png" group-title="USA NEWS HD",US: NEWS NATION
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/417992.ts
+#EXTINF:-1 tvg-chno="290" tvg-id="NewsmaxTV.us" tvg-name="US: NEWSMAX" tvg-logo="https://logodix.com/logo/2063457.png" group-title="USA NEWS HD",US: NEWSMAX
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418119.ts
+#EXTINF:-1 tvg-chno="291" tvg-id="NewsNet.us" tvg-name="US: NEWSNET" tvg-logo="https://cdn.goldbach.com/uploads/production//5f574a8de2f9196327ad89f6/2020/12/newsnet2x-267de00a.png" group-title="USA NEWS HD",US: NEWSNET
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418137.ts
+#EXTINF:-1 tvg-chno="292" tvg-id="ACCNetwork.us" tvg-name="US:  ACC NETWORK" tvg-logo="https://i.ibb.co/BVNRjXc/acc-network-us.png" group-title="USA SPORTS HD",US:  ACC NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/433791.ts
+#EXTINF:-1 tvg-chno="293" tvg-id="BigTen.us" tvg-name="US:  BIG TEN NETWORK" tvg-logo="https://i.ibb.co/VqPv9QV/big-ten-network.png" group-title="USA SPORTS HD",US:  BIG TEN NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/433792.ts
+#EXTINF:-1 tvg-chno="294" tvg-id="CBSSportsHQ.us" tvg-name="US:  CBS SPORTS HQ" tvg-logo="https://i.ibb.co/BBFZtk2/cbs-sports-hq-us.png" group-title="USA SPORTS HD",US:  CBS SPORTS HQ
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/433795.ts
+#EXTINF:-1 tvg-chno="295" tvg-id="AltitudeSports.us" tvg-name="US: ALTITUDE SPORTS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/08/altitude-sports-logo.jpg" group-title="USA SPORTS HD",US: ALTITUDE SPORTS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418152.ts
+#EXTINF:-1 tvg-chno="296" tvg-id="SportsNetPittsburgh.us" tvg-name="US: ATT SPORTSNET PITTSBURGH" tvg-logo="https://i.ibb.co/Sy9w2nK/at-and-t-sportsnet-pittsburgh-us.png" group-title="USA SPORTS HD",US: ATT SPORTSNET PITTSBURGH
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418143.ts
+#EXTINF:-1 tvg-chno="297" tvg-id="CBSSportsNetwork.us" tvg-name="US: CBS SPORTS NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="USA SPORTS HD",US: CBS SPORTS NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418177.ts
+#EXTINF:-1 tvg-chno="298" tvg-id="MOTORTREND.us" tvg-name="US: DISCOVERY VELOCITY (MOTORTREND)" tvg-logo="http://1.bp.blogspot.com/-PTW6Gsjhahg/TnyrmupEGqI/AAAAAAAACLI/ZkphTtJQdL0/s320/Velocity+logo+2011.png" group-title="USA SPORTS HD",US: DISCOVERY VELOCITY (MOTORTREND)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418009.ts
+#EXTINF:-1 tvg-chno="299" tvg-id="ESPN.us" tvg-name="US: ESPN" tvg-logo="http://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_wordmark.png" group-title="USA SPORTS HD",US: ESPN
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418175.ts
+#EXTINF:-1 tvg-chno="300" tvg-id="ESPN2.us" tvg-name="US: ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="USA SPORTS HD",US: ESPN 2
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418173.ts
+#EXTINF:-1 tvg-chno="301" tvg-id="ESPN3.us" tvg-name="US: ESPN 3" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="USA SPORTS HD",US: ESPN 3
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418207.ts
+#EXTINF:-1 tvg-chno="302" tvg-id="ESPNEWS.us" tvg-name="US: ESPN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png" group-title="USA SPORTS HD",US: ESPN NEWS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418174.ts
+#EXTINF:-1 tvg-chno="303" tvg-id="ESPNU.us" tvg-name="US: ESPN U" tvg-logo="https://hd-report.com/wp-content/uploads/2014/03/ESPNU-HD-logo.png" group-title="USA SPORTS HD",US: ESPN U
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418176.ts
+#EXTINF:-1 tvg-chno="304" tvg-id="FanDuelSportsNetworkOhio.us" tvg-name="US: FanDuel  Cincinnati us" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  Cincinnati us
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418220.ts
+#EXTINF:-1 tvg-chno="305" tvg-id="FanDuelSportsNetworkDetroit.us" tvg-name="US: FanDuel  Detroit US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  Detroit US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418221.ts
+#EXTINF:-1 tvg-chno="306" tvg-id="FanDuelSportsNetworkMidwestKansasCity.us" tvg-name="US: FanDuel  Kansas City US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  Kansas City US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418227.ts
+#EXTINF:-1 tvg-chno="307" tvg-id="FanDuelSportsNetworkMidwestPlus.us" tvg-name="US: FanDuel  Midwest Plus US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  Midwest Plus US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418230.ts
+#EXTINF:-1 tvg-chno="308" tvg-id="FanDuelSportsNetworkMidwest.us" tvg-name="US: FanDuel  Midwest US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  Midwest US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418229.ts
+#EXTINF:-1 tvg-chno="309" tvg-id="FanDuelSportsNetworkNewOrleansPlus.us" tvg-name="US: FanDuel  New Orleans Plus US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  New Orleans Plus US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418232.ts
+#EXTINF:-1 tvg-chno="310" tvg-id="FanDuelSportsNetworkNorth.us" tvg-name="US: FanDuel  North" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  North
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418233.ts
+#EXTINF:-1 tvg-chno="311" tvg-id="FanDuelSportsNetworkNorthPlus.us" tvg-name="US: FanDuel  North Plus US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  North Plus US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418234.ts
+#EXTINF:-1 tvg-chno="312" tvg-id="FanDuelSportsNetworkOhioPlus.us" tvg-name="US: FanDuel  Ohio Plus US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  Ohio Plus US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418236.ts
+#EXTINF:-1 tvg-chno="313" tvg-id="FanDuelSportsNetworkOklahomaPlus.us" tvg-name="US: FanDuel  Oklahoma Plus" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  Oklahoma Plus
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418238.ts
+#EXTINF:-1 tvg-chno="314" tvg-id="FanDuelSportsNetworkOklahoma.us" tvg-name="US: FanDuel  Oklahoma US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  Oklahoma US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418237.ts
+#EXTINF:-1 tvg-chno="315" tvg-id="FanDuelSportsNetworkSanDiego.us" tvg-name="US: FanDuel  San Diego US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  San Diego US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418239.ts
+#EXTINF:-1 tvg-chno="316" tvg-id="FanDuelSportsNetworkSoCal.us" tvg-name="US: FanDuel  Socal US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  Socal US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418241.ts
+#EXTINF:-1 tvg-chno="317" tvg-id="FanDuelSportsNetworkSouthPlus.us" tvg-name="US: FanDuel  South Plus US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  South Plus US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418243.ts
+#EXTINF:-1 tvg-chno="318" tvg-id="FanDuelSportsNetworkSouth.us" tvg-name="US: FanDuel  South US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  South US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418242.ts
+#EXTINF:-1 tvg-chno="319" tvg-id="FanDuelSportsNetworkSoutheast.us" tvg-name="US: FanDuel  Southeast US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  Southeast US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418244.ts
+#EXTINF:-1 tvg-chno="320" tvg-id="FanDuelSportsNetworkSun.us" tvg-name="US: FanDuel  SUN SOUTH US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  SUN SOUTH US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418246.ts
+#EXTINF:-1 tvg-chno="321" tvg-id="FanDuelSportsNetworkSun.us" tvg-name="US: FanDuel  Sun US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  Sun US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418247.ts
+#EXTINF:-1 tvg-chno="322" tvg-id="FanDuelSportsNetworkWest.us" tvg-name="US: FanDuel  WEST" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  WEST
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418251.ts
+#EXTINF:-1 tvg-chno="323" tvg-id="FanDuelSportsNetworkWisconsin.us" tvg-name="US: FanDuel  Wisconsin" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel  Wisconsin
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418249.ts
+#EXTINF:-1 tvg-chno="324" tvg-id="FanDuelSportsNetworkNorthCarolina.us" tvg-name="US: FanDuel CAROLINAS US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel CAROLINAS US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418226.ts
+#EXTINF:-1 tvg-chno="325" tvg-id="FanDuelSportsNetworkDetroitPlus.us" tvg-name="US: FanDuel Detroit Plus" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel Detroit Plus
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418256.ts
+#EXTINF:-1 tvg-chno="326" tvg-id="FanDuelSportsNetworkFlorida.us" tvg-name="US: FanDuel Florida" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel Florida
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418223.ts
+#EXTINF:-1 tvg-chno="327" tvg-id="FanDuelSportsNetworkIndiana.us" tvg-name="US: FanDuel Indiana" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel Indiana
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418225.ts
+#EXTINF:-1 tvg-chno="328" tvg-id="FanDuelSportsNetworkMidwestKansasCity.us" tvg-name="US: FanDuel Kansas City Plus US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel Kansas City Plus US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418228.ts
+#EXTINF:-1 tvg-chno="329" tvg-id="FanDuelSportsNetworkNewOrleans.us" tvg-name="US: FanDuel New Orleans US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel New Orleans US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418231.ts
+#EXTINF:-1 tvg-chno="330" tvg-id="FanDuelSportsNetworkOhioPlus.us" tvg-name="US: FanDuel Ohio US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel Ohio US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418235.ts
+#EXTINF:-1 tvg-chno="331" tvg-id="FanDuelSportsNetworkSouthwest.us" tvg-name="US: FanDuel Southwest" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel Southwest
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418245.ts
+#EXTINF:-1 tvg-chno="332" tvg-id="FanDuelSportsNetworkTennessee.us" tvg-name="US: FanDuel Tennessee US" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel Tennessee US
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418222.ts
+#EXTINF:-1 tvg-chno="333" tvg-id="FanDuelTV.us" tvg-name="US: FanDuel TV " tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel TV 
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/527802.ts
+#EXTINF:-1 tvg-chno="334" tvg-id="FanDuelSportsNetworkWisconsinPlus.us" tvg-name="US: FanDuel Wisconsin Plus" tvg-logo="https://i.postimg.cc/L66gzDwc/images.png" group-title="USA SPORTS HD",US: FanDuel Wisconsin Plus
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418257.ts
+#EXTINF:-1 tvg-chno="335" tvg-id="FightNetwork.us" tvg-name="US: FIGHT NETWORK" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_fight_sports.png" group-title="USA SPORTS HD",US: FIGHT NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418208.ts
+#EXTINF:-1 tvg-chno="336" tvg-id="FTFSports.us" tvg-name="US: FOR THE FANS FTF" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/17/USAJ3504716A_20210525T051628.png" group-title="USA SPORTS HD",US: FOR THE FANS FTF
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418198.ts
+#EXTINF:-1 tvg-chno="337" tvg-id="FoxSoccerPlus.us" tvg-name="US: Fox Soccer Plus" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="USA SPORTS HD",US: Fox Soccer Plus
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418210.ts
+#EXTINF:-1 tvg-chno="338" tvg-id="FoxSports1.us" tvg-name="US: FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/200px-2015_Fox_Sports_1_logo.svg.png" group-title="USA SPORTS HD",US: FOX SPORTS 1
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418178.ts
+#EXTINF:-1 tvg-chno="339" tvg-id="FoxSports2.us" tvg-name="US: FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/200px-FS2_logo_2015.svg.png" group-title="USA SPORTS HD",US: FOX SPORTS 2
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418179.ts
+#EXTINF:-1 tvg-chno="340" tvg-id="FoxDeportes.us" tvg-name="US: FOX SPORTS DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/220px-FOX_Deportes_logo.png" group-title="USA SPORTS HD",US: FOX SPORTS DEPORTES
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418211.ts
+#EXTINF:-1 tvg-chno="341" tvg-id="fuboSportsNetwork.us" tvg-name="US: FUBO SPORTS NETWORK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/USAJ2200023Z0_20210525T051529.png" group-title="USA SPORTS HD",US: FUBO SPORTS NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418199.ts
+#EXTINF:-1 tvg-chno="342" tvg-id="FuelTV.us" tvg-name="US: FUEL TV" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/13/USAK3508711A_20210525T051633.png" group-title="USA SPORTS HD",US: FUEL TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418200.ts
+#EXTINF:-1 tvg-chno="343" tvg-id="HuntChannel.us" tvg-name="US: Hunt Channel (D)" tvg-logo="https://www.lethalproducts.com/wp-content/uploads/2016/03/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png" group-title="USA SPORTS HD",US: Hunt Channel (D)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/442751.ts
+#EXTINF:-1 tvg-chno="344" tvg-id="TUDN.us" tvg-name="US: LATIN TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="USA SPORTS HD",US: LATIN TUDN
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/613319.ts
+#EXTINF:-1 tvg-chno="345" tvg-id="MarqueeSports.us" tvg-name="US: MARQUEE SPORTS NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/1280px-Marquee_Sports_Network_Logo.svg.png" group-title="USA SPORTS HD",US: MARQUEE SPORTS NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418190.ts
+#EXTINF:-1 tvg-chno="346" tvg-id="MASN.us" tvg-name="US: MASN" tvg-logo="http://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png" group-title="USA SPORTS HD",US: MASN
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418171.ts
+#EXTINF:-1 tvg-chno="347" tvg-id="MASN2.us" tvg-name="US: MASN 2" tvg-logo="http://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png" group-title="USA SPORTS HD",US: MASN 2
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418170.ts
+#EXTINF:-1 tvg-chno="348" tvg-id="MavTV.us" tvg-name="US: MAV TV" tvg-logo="https://assets.lucasoil.com/logos/mavtv_motorsports_network_dark.png" group-title="USA SPORTS HD",US: MAV TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418191.ts
+#EXTINF:-1 tvg-chno="349" tvg-id="MAVTVSelect.us" tvg-name="US: MAV TV SELECT" tvg-logo="https://assets.lucasoil.com/logos/mavtv_motorsports_network_dark.png" group-title="USA SPORTS HD",US: MAV TV SELECT
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418202.ts
+#EXTINF:-1 tvg-chno="350" tvg-id="MLBNetwork.us" tvg-name="US: MLB NETWORK" tvg-logo="https://i.ibb.co/8zbcwSh/mlb-network.png" group-title="USA SPORTS HD",US: MLB NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/299145.ts
+#EXTINF:-1 tvg-chno="351" tvg-id="MonumentalSportsNetwork.us" tvg-name="US: MONUMENTAL SPORTS NETWORK" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: MONUMENTAL SPORTS NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418161.ts
+#EXTINF:-1 tvg-chno="352" tvg-id="MonumentalSportsNetwork2.us" tvg-name="US: MONUMENTAL SPORTS NETWORK 2" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: MONUMENTAL SPORTS NETWORK 2
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418160.ts
+#EXTINF:-1 tvg-chno="353" tvg-id="MOTORTREND.us" tvg-name="US: MOTORTREND" tvg-logo="http://www.hangklip.com/clients/client_list/_images/logos/logo_motor_trend_magazine_768_256.png" group-title="USA SPORTS HD",US: MOTORTREND
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418029.ts
+#EXTINF:-1 tvg-chno="354" tvg-id="MotorvisionTV.us" tvg-name="US: MOTORVISION.TV" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/60/USAJ4000004ZT_20210525T051725.png" group-title="USA SPORTS HD",US: MOTORVISION.TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418203.ts
+#EXTINF:-1 tvg-chno="355" tvg-id="MSGZone1.us" tvg-name="US: MSG" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a0d2fca6d5b837bfa8f4eac102ef247.png" group-title="USA SPORTS HD",US: MSG
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418145.ts
+#EXTINF:-1 tvg-chno="356" tvg-id="MSG2.us" tvg-name="US: MSG 2" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a0d2fca6d5b837bfa8f4eac102ef247.png" group-title="USA SPORTS HD",US: MSG 2
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418146.ts
+#EXTINF:-1 tvg-chno="357" tvg-id="MSGZone1.us" tvg-name="US: MSG Plus" tvg-logo="http://images3.wikia.nocookie.net/__cb20120901154607/logopedia/images/a/a4/Msg_plus.png" group-title="USA SPORTS HD",US: MSG Plus
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418147.ts
+#EXTINF:-1 tvg-chno="358" tvg-id="NBAtv.us" tvg-name="US: NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="USA SPORTS HD",US: NBA TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418182.ts
+#EXTINF:-1 tvg-chno="359" tvg-id="GolfChannel.us" tvg-name="US: NBC Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/220px-Golf_Channel_Logo_2018.png" group-title="USA SPORTS HD",US: NBC Golf
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418180.ts
+#EXTINF:-1 tvg-chno="360" tvg-id="NBCSportsBayArea.us" tvg-name="US: NBC SPORTS (BAY AREA)" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS (BAY AREA)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418154.ts
+#EXTINF:-1 tvg-chno="361" tvg-id="NBCSportsBoston.us" tvg-name="US: NBC SPORTS (BOSTON)" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS (BOSTON)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418155.ts
+#EXTINF:-1 tvg-chno="362" tvg-id="NBCSportsCalifornia.us" tvg-name="US: NBC SPORTS (CALIFORNIA)" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS (CALIFORNIA)
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418156.ts
+#EXTINF:-1 tvg-chno="363" tvg-id="NBCSportsCaliforniaPlus.us" tvg-name="US: NBC SPORTS (CALIFORNIA) +" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS (CALIFORNIA) +
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/640553.ts
+#EXTINF:-1 tvg-chno="364" tvg-id="NBCSportsCaliforniaPlus.us" tvg-name="US: NBC SPORTS (BAY AREA) +" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS (BAY AREA) +
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/640552.ts
+#EXTINF:-1 tvg-chno="365" tvg-id="NBCSportsChicagoPlus.us" tvg-name="US: NBC SPORTS CHICAGO" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS CHICAGO
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418144.ts
+#EXTINF:-1 tvg-chno="366" tvg-id="NBCSportsChicagoPlus.us" tvg-name="US: NBC SPORTS CHICAGO PLUS" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS CHICAGO PLUS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418148.ts
+#EXTINF:-1 tvg-chno="367" tvg-id="NBCSportsPhiladelphiaPlus.us" tvg-name="US: NBC SPORTS PHILLY PLUS" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS PHILLY PLUS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418158.ts
+#EXTINF:-1 tvg-chno="368" tvg-id="NBCSportsPhiladelphia.us" tvg-name="US: NBCSN PHILADELPHIA" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBCSN PHILADELPHIA
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418159.ts
+#EXTINF:-1 tvg-chno="369" tvg-id="NESN.us" tvg-name="US: NESN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/New_England_Sports_Network_(logo).png" group-title="USA SPORTS HD",US: NESN
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418150.ts
+#EXTINF:-1 tvg-chno="370" tvg-id="NESNplus.us" tvg-name="US: NESN PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Nesnplus.png" group-title="USA SPORTS HD",US: NESN PLUS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418149.ts
+#EXTINF:-1 tvg-chno="371" tvg-id="NFLNetwork.us" tvg-name="US: NFL Network " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1920px-NFL_Network_logo.svg.png" group-title="USA SPORTS HD",US: NFL Network 
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/237120.ts
+#EXTINF:-1 tvg-chno="372" tvg-id="NHLNetwork.us" tvg-name="US: NHL NETWORK" tvg-logo="http://2.bp.blogspot.com/-owuDiJmYRKo/TvPXuWzB45I/AAAAAAAADXY/qAOckKR7qJo/s1600/NHL+Network+logo+2011.png" group-title="USA SPORTS HD",US: NHL NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418184.ts
+#EXTINF:-1 tvg-chno="373" tvg-id="OutsideTVPlus.us" tvg-name="US: OUTSIDE TV+" tvg-logo="https://www.pdga.com/files/u245721/outside_tv_logo.png" group-title="USA SPORTS HD",US: OUTSIDE TV+
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418205.ts
+#EXTINF:-1 tvg-chno="374" tvg-id="RedbullTV.us" tvg-name="US: REDBULL TV" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="USA SPORTS HD",US: REDBULL TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418192.ts
+#EXTINF:-1 tvg-chno="375" tvg-id="ROOTSportsNorthwest.us" tvg-name="US: Root Sports" tvg-logo="http://img2.wikia.nocookie.net/__cb20120902150909/logopedia/images/8/8a/Root_sports_logo.png" group-title="USA SPORTS HD",US: Root Sports
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418214.ts
+#EXTINF:-1 tvg-chno="376" tvg-id="SECNetwork.us" tvg-name="US: SEC NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SEC_Network_%282024%29.svg/200px-SEC_Network_%282024%29.svg.png" group-title="USA SPORTS HD",US: SEC NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418151.ts
+#EXTINF:-1 tvg-chno="377" tvg-id="SNY.us" tvg-name="US: SNY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/220px-SNY_logo.svg.png" group-title="USA SPORTS HD",US: SNY
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418162.ts
+#EXTINF:-1 tvg-chno="378" tvg-id="SpaceCityHomeNetwork.us" tvg-name="US: SPACE CITY HOME NETWORK" tvg-logo="https://i.ibb.co/3rBNrw5/at-and-t-sportsnet-southwest-us.png" group-title="USA SPORTS HD",US: SPACE CITY HOME NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418153.ts
+#EXTINF:-1 tvg-chno="379" tvg-id="SpectrumSportsNetLALakers.us" tvg-name="US: SPECTRUM SPORTSNET LA" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="USA SPORTS HD",US: SPECTRUM SPORTSNET LA
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418164.ts
+#EXTINF:-1 tvg-chno="380" tvg-id="SpectrumSportsNetLADodgers.us" tvg-name="US: SPECTRUM SPORTSNET LA DODGERS" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="USA SPORTS HD",US: SPECTRUM SPORTSNET LA DODGERS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418163.ts
+#EXTINF:-1 tvg-chno="381" tvg-id="SpectrumSportsNetLALakers.us" tvg-name="US: SPECTRUM SPORTSNET LAKERS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="USA SPORTS HD",US: SPECTRUM SPORTSNET LAKERS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418165.ts
+#EXTINF:-1 tvg-chno="382" tvg-id="SportsGrid.us" tvg-name="US: SportsGrid" tvg-logo="https://yt3.ggpht.com/a/AGF-l79Zlzs1LBCoBa7dBNXRMwqzEIMyDfBUaxn8JQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="USA SPORTS HD",US: SportsGrid
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418215.ts
+#EXTINF:-1 tvg-chno="383" tvg-id="SportsmanChannel.us" tvg-name="US: SPORTSMAN CHANNEL" tvg-logo="https://images.squarespace-cdn.com/content/v1/5006d617e4b09ef2252db819/1464183838508-7CJ8QMVJJVNGEQUDNTJZ/ke17ZwdGBToddI8pDm48kFogQcwqahR2CFTvPCvZ1W5Zw-zPPgdn4jUwVcJE1ZvWtTHP8HrI779dw9Z2fLXflvut3m2EIRkoOCEuUXL6Bqkp2ryTI0HqTOaaUohrI8PIWbJdZMOpMWDaVNQV4yHytTsg3xblRCVBTbLqlYh3Vh8/sportsman_channel.png" group-title="USA SPORTS HD",US: SPORTSMAN CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418187.ts
+#EXTINF:-1 tvg-chno="384" tvg-id="Stadium.us" tvg-name="US: STADIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="USA SPORTS HD",US: STADIUM
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418193.ts
+#EXTINF:-1 tvg-chno="385" tvg-id="TennisChannel.us" tvg-name="US: TENNIS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="USA SPORTS HD",US: TENNIS CHANNEL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418188.ts
+#EXTINF:-1 tvg-chno="386" tvg-id="FanDuelRacing.us" tvg-name="US: TVG 2" tvg-logo="https://www.logolynx.com/images/logolynx/s_c3/c3c7bdec9f040d29f7c59e5f5845a70f.png" group-title="USA SPORTS HD",US: TVG 2
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418194.ts
+#EXTINF:-1 tvg-chno="387" tvg-id="FanDuelTV.us" tvg-name="US: TVG Network" tvg-logo="https://www.logolynx.com/images/logolynx/s_c3/c3c7bdec9f040d29f7c59e5f5845a70f.png" group-title="USA SPORTS HD",US: TVG Network
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418189.ts
+#EXTINF:-1 tvg-chno="388" tvg-id="TYCSports.us" tvg-name="US: TYC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="USA SPORTS HD",US: TYC SPORTS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418166.ts
+#EXTINF:-1 tvg-chno="389" tvg-id="UFC24_7.us" tvg-name="US: UFC FIGHT PASS 24/7" tvg-logo="https://ufc-video.s3.amazonaws.com/image/logos/UFC_FIGHTPASS_LOGO_F.PNG" group-title="USA SPORTS HD",US: UFC FIGHT PASS 24/7
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/601454.ts
+#EXTINF:-1 tvg-chno="390" tvg-id="VSIN.us" tvg-name="US: VSiN" tvg-logo="https://i.ibb.co/1QcR1rW/vsin.png" group-title="USA SPORTS HD",US: VSiN
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/645725.ts
+#EXTINF:-1 tvg-chno="391" tvg-id="WillowCricket.us" tvg-name="US: WILLOW CRICKET" tvg-logo="https://yt3.ggpht.com/-JcDthkzDGdM/AAAAAAAAAAI/AAAAAAAAAAA/wDqMgPO4vSo/s900-c-k-no/photo.jpg" group-title="USA SPORTS HD",US: WILLOW CRICKET
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418212.ts
+#EXTINF:-1 tvg-chno="392" tvg-id="WillowCricketXtra.us" tvg-name="US: Willow Cricket Extra" tvg-logo="https://campaign-image.com/zohocampaigns/279273000000261004_zc_v2_untitled_1.png" group-title="USA SPORTS HD",US: Willow Cricket Extra
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/377944.ts
+#EXTINF:-1 tvg-chno="393" tvg-id="WorldFishingNetwork.us" tvg-name="US: WORLD FISHING NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/WFN_2014_logo.svg/220px-WFN_2014_logo.svg.png" group-title="USA SPORTS HD",US: WORLD FISHING NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418213.ts
+#EXTINF:-1 tvg-chno="394" tvg-id="WorldPokerTour.us" tvg-name="US: WORLD POKER TOUR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/91/USAJ3504718A_20210525T051642.png" group-title="USA SPORTS HD",US: WORLD POKER TOUR
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418206.ts
+#EXTINF:-1 tvg-chno="395" tvg-id="YesNetwork.us" tvg-name="US: YES NETWORK" tvg-logo="https://www.mlbstatic.com/yesnetwork/assets/images/yes_logo.png" group-title="USA SPORTS HD",US: YES NETWORK
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/418167.ts
